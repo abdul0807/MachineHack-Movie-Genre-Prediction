@@ -5,3 +5,5 @@ https://www.machinehack.com/course/classifying-movie-scripts-predict-the-movie-g
 
 <img src="image.png">
 
+## Model
+* Baseline solution using Logistic Regression
